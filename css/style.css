@@ -407,12 +407,12 @@ header {
     line-height: 26px;
     margin-bottom: 65px;
 }
-.contacts .user-typing .user {
+.contacts .form .user-typing .user {
     display: flex;
     gap: 30px;
     margin-bottom: 20px;
 }
-.contacts .user-typing .form-control{
+.contacts .form .user-typing .form-control{
     width: 255px;
     height: 50px;
     left: 20px;
@@ -423,7 +423,7 @@ header {
     font-weight: 400;
     font-family: 'Roboto', sans-serif;
 }
-.contacts .user-typing .message {
+.contacts .form .user-typing .message {
     max-width: 540px;
     max-height: 175px;
     min-width: 540px;
@@ -437,7 +437,7 @@ header {
     font-family: 'Roboto', sans-serif;
     margin-bottom: 40px;
 }
-.contacts .btns {
+.contacts .form .btns {
     background: #34547A;
     height: 45px;
     padding: 0px 80px;
@@ -449,9 +449,10 @@ header {
     margin-bottom: 100px;
     margin-top: 0px;
     transition: all 0.3s ease;
+    margin-left: 11rem;
 }
 
-.contacts .btns:hover {
+.contacts .form .btns:hover {
     cursor: pointer;
     color: #34547A;
     font-family: 'Roboto', sans-serif;
@@ -462,7 +463,7 @@ header {
     transition: all 0.3s ease;
 }
 
-.contacts .btns:active {
+.contacts .form .btns:active {
     border: 2px solid #fff;
 }
 /* FOOTER */
