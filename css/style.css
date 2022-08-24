@@ -833,8 +833,8 @@
 }
 .about .content p {
     text-align: center;
-    width: 400px;
-    margin-left: 50px;
+    width: 380px;
+
     font-weight: 400;
 }
 .layouts {
@@ -873,7 +873,7 @@
 }
 .skills-list {
     margin-right: 45px;
-    width: 400px;
+    width: 380px;
     height: 257px;
     box-sizing: border-box;
 }
@@ -933,13 +933,13 @@
     margin-bottom: 20px;
 }
 .contacts .form .user-typing .form-control{
-    width: 400px;
+    width: 380px;
     margin-left: 0px;
 }
 .contacts .form .user-typing .message {
-    max-width: 400px;
+    max-width: 380px;
     max-height: 100px;
-    min-width: 400px;
+    min-width: 380px;
     min-height: 100px;
 }
 .contacts .form .btns {
