@@ -772,6 +772,7 @@
 @media (max-width:480px) {
 /* NAVBAR */
 .navbar {
+    margin: 0px 40px;
     padding-top: 20px;
     padding-bottom: 110px;
 }
@@ -792,10 +793,10 @@
 }
 .section img {
     width: 285px;
-    height: 150px;
+    height: 160px;
 }
 .section .sec-content {
-    width: 405px;
+    width: 385px;
 }
 .section .sec-content h1 {
     font-size: 38px;
@@ -825,14 +826,14 @@
     height: 147px;
 }
 .about .content h1::before {
-    left: 71vh;
+    left: 69vh;
 }
 .about .content h1::after {
-    right: 77vh;
+    right: 75vh;
 }
 .about .content p {
     text-align: center;
-    width: 450px;
+    width: 420px;
     margin-left: 50px;
     font-weight: 400;
 }
@@ -871,7 +872,7 @@
     margin-bottom: 70px;
 }
 .skills-list {
-    width: 445px;
+    width: 420px;
     height: 257px;
     box-sizing: border-box;
 }
